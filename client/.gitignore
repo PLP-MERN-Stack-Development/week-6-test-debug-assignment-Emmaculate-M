@@ -11,6 +11,13 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
+.pnpm/
+.vite/
+
+# System files
+.DS_Store
+Thumbs.db
 
 # Editor directories and files
 .vscode/*
